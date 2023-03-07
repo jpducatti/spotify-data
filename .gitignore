@@ -1,0 +1,8 @@
+# Ignore Python Virtual Env Folder
+env
+
+# Secrets
+config.py
+
+# Cached files
+
